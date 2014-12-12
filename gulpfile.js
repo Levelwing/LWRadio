@@ -133,6 +133,7 @@ gulp.task('copy-templates', ['copy'], function() {
 gulp.task('server:start', function() {
   connect.server({
     root: './build',
+    port: 3100,
     middleware: function() {
       return [
         modRewrite(['^[^\\.]*$ /index.html [L]'])
