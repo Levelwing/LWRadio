@@ -41,7 +41,7 @@ While you're working on your project, run:
 npm start
 ```
 
-This will compile the Sass and assemble your Angular app. **Now go to `localhost:8080` in your browser to see it in action.**
+This will compile the Sass and assemble your Angular app. **Now go to `localhost:3100` in your browser to see it in action.**
 
 To run the compiling process once, without watching any files:
 
