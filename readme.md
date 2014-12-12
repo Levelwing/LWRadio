@@ -1,4 +1,8 @@
-# Foundation for Apps Template
+#Welcome to Project Badass' Levelwing Radio Build
+
+Now that we have this environment set up, we can begin collaborating on this project. Below are the instructions on how to get Foundation for Apps up and running on your machine. Let me know if you have any issues with the build since I had quite a hard time getting it up and running on my computer. 
+
+## Foundation for Apps Template
 
 This is the default template project for Foundation for Apps. It's powered by Node, Gulp, Angular, and libsass. It provides you with a basic template to get started with Angular and Foundation for Apps. If you're already an Angular developer, you may instead want to install the components into your own stack using Bower: `bower install foundation-apps`
 
